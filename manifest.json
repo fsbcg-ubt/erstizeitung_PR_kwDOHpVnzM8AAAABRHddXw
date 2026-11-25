@@ -1,0 +1,124 @@
+{
+  "id": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/",
+  "name": "Erstizeitung BCG - Universität Bayreuth",
+  "short_name": "Erstizeitung",
+  "description": "Welcome to the Jungle - Ein Reiseführer für Neuankömmlinge der Fakultät BCG",
+  "start_url": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/",
+  "scope": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "de-DE",
+  "theme_color": "#249260",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/maskable-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Fachschaft",
+      "short_name": "Fachschaft",
+      "description": "Kontakt zur Fachschaft BCG",
+      "url": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/fachschaft.html",
+      "icons": [
+        {
+          "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Dschungel-ABC",
+      "short_name": "ABC",
+      "description": "Uni-Lexikon und Begriffserklärungen",
+      "url": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/dschungel-abc.html",
+      "icons": [
+        {
+          "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Termine",
+      "short_name": "Termine",
+      "description": "Erstiveranstaltungen und wichtige Termine",
+      "url": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/termine.html",
+      "icons": [
+        {
+          "src": "/erstizeitung_PR_kwDOHpVnzM8AAAABRHddXw/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "categories": ["education", "reference"]
+}
